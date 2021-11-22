@@ -18,15 +18,19 @@
     margin-left:auto;
     margin-right: auto;
     width: 50%;
-   
+   } 
+#tribute-info{
+    width: 500px;
+    margin: auto;
   }
+
   #tribute-info h3{
    text-align: center;
    margin: auto;
    font-size: 25px;
   }   
   #tribute-info ul{
-    margin: auto auto auto 600px;
+  /*  margin: auto auto auto 600px;*/
     width: 500px;
     font-size: 25px;
   }
